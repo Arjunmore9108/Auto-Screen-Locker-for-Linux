@@ -25,7 +25,7 @@ To run this script, you need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Arjunmore9108/Auto-Screen-Locker-for-Linux.git](https://github.com/Arjunmore9108/Auto-Screen-Locker-for-Linux.git)
+    git clone https://github.com/Arjunmore9108/Auto-Screen-Locker-for-Linux.git
     cd Auto-Screen-Locker-for-Linux
     ```
 
