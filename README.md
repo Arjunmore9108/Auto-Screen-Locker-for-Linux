@@ -29,8 +29,8 @@ This Python script automatically locks your Linux desktop when a specific Blueto
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/linux-rssi-auto-lock.git
-cd linux-rssi-auto-lock
+[git clone https://github.com/Arjunmore9108/Auto-Screen-Locker-for-Linux.git]
+cd Auto-Screen-Locker-for-Linux
 
 2.Make sure Python 3 is installed:
 python3 --version
