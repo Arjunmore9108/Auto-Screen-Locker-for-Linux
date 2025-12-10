@@ -31,3 +31,27 @@ This Python script automatically locks your Linux desktop when a specific Blueto
 ```bash
 git clone https://github.com/<username>/linux-rssi-auto-lock.git
 cd linux-rssi-auto-lock
+
+2.Make sure Python 3 is installed:
+python3 --version
+
+3.Install bluez if not already installed:
+
+Debian/Ubuntu/Kali:
+
+sudo apt install bluez
+
+Fedora:
+
+sudo dnf install bluez
+
+Usage
+
+Open lock_rssi.py and set your Bluetooth device MAC address:
+
+MAC = "3C:4D:CC:1C:C6:A5" #set you device's MAC
+
+
+Run the script:
+
+sudo python3 lock_rssi.py
