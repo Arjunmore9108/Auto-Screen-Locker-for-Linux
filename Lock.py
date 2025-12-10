@@ -2,7 +2,7 @@ import subprocess
 import time
 import os
 
-MAC = "3C:4D:CC:1C:C6:A5"
+MAC = "<your device MAC address>"
 
 def get_rssi(mac):
     try:
